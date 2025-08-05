@@ -1,4 +1,3 @@
-# onnx_solution/enhance_onnx.py
 import os
 import argparse
 import numpy as np
